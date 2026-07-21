@@ -1,1 +1,0 @@
-# my_devops_project
